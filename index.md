@@ -4,20 +4,19 @@ title: Home
 
 # Home
 
+## Introduction
 
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
 
+## Research Question
+
+$A = Bx^2$
+
 * Bullet Point 1
 * Bullet Point 2
-
-1. Numbered Point 1
-1. Numbered Point 2
-
-## Introduction
-
-## Research Question
+* Bullet Point 3
 
 ## Background
 
@@ -26,6 +25,10 @@ _Italic Text_
 [link to background](/background)
 
 ## Results
+
+1. Numbered Point 1
+1. Numbered Point 2
+1. Numbered Point 3
 
 ## Conclusions and Future Work
 
