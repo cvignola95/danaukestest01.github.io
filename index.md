@@ -12,8 +12,6 @@ _Italic Text_
 
 ## Research Question
 
-$A = Bx^2$
-
 * Bullet Point 1
 * Bullet Point 2
 * Bullet Point 3
