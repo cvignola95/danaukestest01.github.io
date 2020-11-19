@@ -4,6 +4,7 @@ title: Home
 
 # Home
 
+
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
@@ -20,6 +21,10 @@ _Italic Text_
 
 ## Background
 
+![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+
+[link to background](\background)
+
 ## Results
 
 ## Conclusions and Future Work
@@ -30,4 +35,3 @@ _Italic Text_
 
 
 ## References
-
