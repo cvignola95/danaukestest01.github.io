@@ -22,6 +22,8 @@ _Italic Text_
 
 [link to background](/background)
 
+[link to vectors notebook](https://nbviewer.jupyter.org/url/danaukestest01.github.io/vectors.ipynb)
+
 ## Results
 
 1. Numbered Point 1
