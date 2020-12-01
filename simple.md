@@ -1,9 +1,11 @@
+---
+title: this is a simple juptyer notebook
+---
+
+
 ```python
 %matplotlib inline
 ```
-
-    Matplotlib is building the font cache; this may take a moment.
-
 
 
 ```python
@@ -25,12 +27,12 @@ plt.plot(x,y)
 
 
 
-    [<matplotlib.lines.Line2D at 0x7f99d13e3fd0>]
+    [<matplotlib.lines.Line2D at 0x7f2e88ba9ad0>]
 
 
 
 
     
-![png](output_3_1.png)
+![png](output_4_1.png)
     
 
