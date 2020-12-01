@@ -22,7 +22,9 @@ _Italic Text_
 
 [link to background](/background)
 
-[link to vectors notebook](https://nbviewer.jupyter.org/url/danaukestest01.github.io/vectors.ipynb)
+[link to simple notebook](https://nbviewer.jupyter.org/url/danaukestest01.github.io/simple.ipynb)
+
+[link to simple markdown](https://nbviewer.jupyter.org/url/danaukestest01.github.io/simple)
 
 ## Results
 
