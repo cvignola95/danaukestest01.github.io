@@ -24,7 +24,7 @@ _Italic Text_
 
 [link to simple notebook](https://nbviewer.jupyter.org/url/danaukestest01.github.io/simple.ipynb)
 
-[link to simple markdown](https://nbviewer.jupyter.org/url/danaukestest01.github.io/simple)
+[link to simple markdown](/simple)
 
 ## Results
 
